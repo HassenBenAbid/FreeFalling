@@ -1,0 +1,166 @@
+﻿  imgui.cpp
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(1120): error C3861: 'ImBezierCalc': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(1478): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(1478): error C2146: syntax error: missing ';' before identifier 'ImFileOpen'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(1479): error C2143: syntax error: missing ';' before '{'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(1479): error C2447: '{': missing function header (old-style formal list?)
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(1495): error C2146: syntax error: missing ')' before identifier 'f'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(1495): error C2143: syntax error: missing ';' before '{'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(1495): error C2447: '{': missing function header (old-style formal list?)
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(1496): error C2146: syntax error: missing ')' before identifier 'f'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(1496): error C2143: syntax error: missing ';' before '{'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(1496): error C2447: '{': missing function header (old-style formal list?)
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(1497): error C2061: syntax error: identifier 'ImFileHandle'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(1497): error C2065: 'f': undeclared identifier
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(1498): error C2061: syntax error: identifier 'ImFileHandle'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(1498): error C2065: 'f': undeclared identifier
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(1509): error C2146: syntax error: missing ';' before identifier 'f'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(1509): error C2065: 'f': undeclared identifier
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(1510): error C2065: 'f': undeclared identifier
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(1513): error C2065: 'f': undeclared identifier
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(1513): error C3861: 'ImFileGetSize': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(1516): error C2065: 'f': undeclared identifier
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(1516): error C3861: 'ImFileClose': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(1523): error C2065: 'f': undeclared identifier
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(1523): error C3861: 'ImFileClose': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(1526): error C2065: 'f': undeclared identifier
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(1528): error C2065: 'f': undeclared identifier
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(1528): error C3861: 'ImFileClose': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(1535): error C2065: 'f': undeclared identifier
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(1535): error C3861: 'ImFileClose': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(2641): error C2065: 'SettingsOffset': undeclared identifier
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(2802): error C2039: 'ActiveIdUsingNavDirMask': is not a member of 'ImGuiContext'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui_internal.h(857): note: see declaration of 'ImGuiContext'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(2803): error C2039: 'ActiveIdUsingNavInputMask': is not a member of 'ImGuiContext'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui_internal.h(857): note: see declaration of 'ImGuiContext'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(2804): error C2039: 'ActiveIdUsingKeyInputMask': is not a member of 'ImGuiContext'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui_internal.h(857): note: see declaration of 'ImGuiContext'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(2910): error C3861: 'IM_FLOOR': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(2911): error C3861: 'IM_FLOOR': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(3090): error C3861: 'IsActiveIdUsingKey': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(3655): error C2039: 'WithinFrameScope': is not a member of 'ImGuiContext'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui_internal.h(857): note: see declaration of 'ImGuiContext'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(3717): error C2039: 'ActiveIdUsingNavDirMask': is not a member of 'ImGuiContext'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui_internal.h(857): note: see declaration of 'ImGuiContext'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(3717): error C2039: 'ActiveIdUsingNavInputMask': is not a member of 'ImGuiContext'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui_internal.h(857): note: see declaration of 'ImGuiContext'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(3718): error C2039: 'ActiveIdUsingKeyInputMask': is not a member of 'ImGuiContext'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui_internal.h(857): note: see declaration of 'ImGuiContext'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(3829): error C2039: 'WithinFrameScopeWithImplicitWindow': is not a member of 'ImGuiContext'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui_internal.h(857): note: see declaration of 'ImGuiContext'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(3958): error C3861: 'ImFileClose': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(4117): error C2039: 'WithinFrameScope': is not a member of 'ImGuiContext'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui_internal.h(857): note: see declaration of 'ImGuiContext'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(4129): error C2039: 'WithinFrameScopeWithImplicitWindow': is not a member of 'ImGuiContext'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui_internal.h(857): note: see declaration of 'ImGuiContext'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(4156): error C2039: 'WithinFrameScope': is not a member of 'ImGuiContext'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui_internal.h(857): note: see declaration of 'ImGuiContext'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(4255): error C3861: 'IM_FLOOR': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(4344): error C2039: 'CalcTypematicRepeatAmount': is not a member of 'ImGui'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(881): note: see declaration of 'ImGui'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(4583): error C2065: 'ImGuiItemStatusFlags_ToggledOpen': undeclared identifier
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(4656): error C2039: 'BeginChildEx': is not a member of 'ImGui'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(881): note: see declaration of 'ImGui'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(4665): error C3861: 'GetContentRegionAvail': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(4672): error C3861: 'SetNextWindowSize': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(4684): error C3861: 'Begin': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(4699): error C3861: 'FocusWindow': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(4700): error C3861: 'NavInitWindow': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(4701): error C3861: 'SetActiveID': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(4724): error C2039: 'WithinEndChild': is not a member of 'ImGuiContext'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui_internal.h(857): note: see declaration of 'ImGuiContext'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(4727): error C2039: 'WithinEndChild': is not a member of 'ImGuiContext'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui_internal.h(857): note: see declaration of 'ImGuiContext'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(4759): error C2039: 'WithinEndChild': is not a member of 'ImGuiContext'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui_internal.h(857): note: see declaration of 'ImGuiContext'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(4819): error C2039: 'SettingsOffset': is not a member of 'ImGuiWindow'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui_internal.h(1280): note: see declaration of 'ImGuiWindow'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(4819): error C2039: 'offset_from_ptr': is not a member of 'ImVector<ImGuiWindowSettings>'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui_internal.h(1037): note: see declaration of 'ImVector<ImGuiWindowSettings>'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(4870): error C3861: 'IM_FLOOR': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(4871): error C3861: 'IM_FLOOR': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(4892): error C3861: 'IM_FLOOR': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(4893): error C3861: 'IM_FLOOR': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(4992): error C2039: 'GetWindowResizeID': is not a member of 'ImGui'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(881): note: see declaration of 'ImGui'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(5015): error C3861: 'IM_FLOOR': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(5016): error C3861: 'IM_FLOOR': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(5327): error C3861: 'IM_FLOOR': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(5359): error C2039: 'WithinFrameScope': is not a member of 'ImGuiContext'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui_internal.h(857): note: see declaration of 'ImGuiContext'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(5667): error C3861: 'IM_FLOOR': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(5830): error C2039: 'ContentRegionRect': is not a member of 'ImGuiWindow'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui_internal.h(1280): note: see declaration of 'ImGuiWindow'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(5831): error C2039: 'ContentRegionRect': is not a member of 'ImGuiWindow'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui_internal.h(1280): note: see declaration of 'ImGuiWindow'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(5832): error C2039: 'ContentRegionRect': is not a member of 'ImGuiWindow'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui_internal.h(1280): note: see declaration of 'ImGuiWindow'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(5833): error C2039: 'ContentRegionRect': is not a member of 'ImGuiWindow'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui_internal.h(1280): note: see declaration of 'ImGuiWindow'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(5963): error C2039: 'WithinFrameScopeWithImplicitWindow': is not a member of 'ImGuiContext'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui_internal.h(857): note: see declaration of 'ImGuiContext'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(5965): error C3861: 'IM_ASSERT_USER_ERROR': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(5972): error C2039: 'WithinEndChild': is not a member of 'ImGuiContext'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui_internal.h(857): note: see declaration of 'ImGuiContext'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(5972): error C3861: 'IM_ASSERT_USER_ERROR': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(6120): error C3861: 'IM_FLOOR': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(6120): error C2789: 'w_item_one': an object of const-qualified type must be initialized
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(6120): note: see declaration of 'w_item_one'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(6121): error C3861: 'IM_FLOOR': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(6121): error C2789: 'w_item_last': an object of const-qualified type must be initialized
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(6121): note: see declaration of 'w_item_last'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(6152): error C3861: 'IM_FLOOR': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(6595): error C3861: 'IM_FLOOR': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(6605): error C3861: 'IM_FLOOR': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(6741): error C2039: 'ContentRegionRect': is not a member of 'ImGuiWindow'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui_internal.h(1280): note: see declaration of 'ImGuiWindow'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(6752): error C2039: 'ContentRegionRect': is not a member of 'ImGuiWindow'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui_internal.h(1280): note: see declaration of 'ImGuiWindow'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(6768): error C2039: 'ContentRegionRect': is not a member of 'ImGuiWindow'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui_internal.h(1280): note: see declaration of 'ImGuiWindow'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(6774): error C2039: 'ContentRegionRect': is not a member of 'ImGuiWindow'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui_internal.h(1280): note: see declaration of 'ImGuiWindow'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(6780): error C2039: 'ContentRegionRect': is not a member of 'ImGuiWindow'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui_internal.h(1280): note: see declaration of 'ImGuiWindow'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(7146): error C3861: 'IM_ASSERT_USER_ERROR': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(7152): error C3861: 'IM_ASSERT_USER_ERROR': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(7305): error C3861: 'IM_FLOOR': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(7315): error C3861: 'IM_FLOOR': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(7667): error C2039: 'WithinEndChild': is not a member of 'ImGuiContext'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui_internal.h(857): note: see declaration of 'ImGuiContext'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(7669): error C2039: 'WithinEndChild': is not a member of 'ImGuiContext'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui_internal.h(857): note: see declaration of 'ImGuiContext'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(7671): error C2039: 'WithinEndChild': is not a member of 'ImGuiContext'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui_internal.h(857): note: see declaration of 'ImGuiContext'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(8349): error C3861: 'IsNavInputTest': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(8353): error C3861: 'IsActiveIdUsingNavInput': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(8393): error C3861: 'IsNavInputTest': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(8400): error C3861: 'IsNavInputTest': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(8422): error C3861: 'IsActiveIdUsingNavDir': identifier not found
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui.cpp(8422): fatal error C1003: error count exceeds 100; stopping compilation
+  imgui_draw.cpp
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui_draw.cpp(1756): error C2511: 'void ImFontAtlas::CalcCustomRectUV(const ImFontAtlasCustomRect *,ImVec2 *,ImVec2 *)': overloaded member function not found in 'ImFontAtlas'
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui.h(2108): note: see declaration of 'ImFontAtlas'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui_draw.cpp(1757): error C2597: illegal reference to non-static member 'ImFontAtlas::TexWidth'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui_draw.cpp(1757): error C3867: 'ImFontAtlas::TexWidth': non-standard syntax; use '&' to create a pointer to member
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui_draw.cpp(1757): error C2597: illegal reference to non-static member 'ImFontAtlas::TexHeight'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui_draw.cpp(1757): error C3867: 'ImFontAtlas::TexHeight': non-standard syntax; use '&' to create a pointer to member
+  imgui_impl_glfw.cpp
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui_impl_glfw.cpp(41): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
+  imgui_impl_opengl3.cpp
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui_impl_opengl3.h(58): fatal error C1189: #error:  "Cannot detect OpenGL loader!"
+  imgui_widgets.cpp
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui_widgets.cpp(770): error C2660: 'ImGui::IsMouseDragging': function does not take 0 arguments
+  c:\users\pc\desktop\don't fall\thegame\imgui\imgui.h(699): note: see declaration of 'ImGui::IsMouseDragging'
+c:\users\pc\desktop\don't fall\thegame\imgui\imgui_widgets.cpp(3511): error C2065: 'ImGuiNavInput_KeyTab_': undeclared identifier
+  GameLayer.cpp
+c:\users\pc\desktop\don't fall\thegame\src\gamelayer.h(3): fatal error C1083: Cannot open include file: 'graphics/layers/layer.h': No such file or directory
+  Level.cpp
+c:\users\pc\desktop\don't fall\thegame\src\level.h(3): fatal error C1083: Cannot open include file: 'graphics/layers/layer.h': No such file or directory
+  main.cpp
+c:\users\pc\desktop\don't fall\thegame\src\gamelayer.h(3): fatal error C1083: Cannot open include file: 'graphics/layers/layer.h': No such file or directory
+  ParticleEffect.cpp
+c:\users\pc\desktop\don't fall\thegame\src\particleeffect.h(3): fatal error C1083: Cannot open include file: 'maths/maths.h': No such file or directory
+  Player.cpp
+c:\users\pc\desktop\don't fall\thegame\src\player.h(3): fatal error C1083: Cannot open include file: 'graphics/Sprite.h': No such file or directory
+  Generating Code...
